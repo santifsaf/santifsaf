@@ -16,7 +16,7 @@ ________________________________________________________________________________
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:santiagoafuentes@gmail.com) 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠️ Skills
+🛠️ 
 
 <p>
 <div align="center">
@@ -28,9 +28,7 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Python-3776AB.svg" style="width: 80px;" alt="Python Badge">
 <img src="https://img.shields.io/badge/Django-092E20.svg" style="width: 80px;" alt="Django Badge">
 <br>
-<img src="https://img.icons8.com/ios-filled/50/000000/sql.png" style="width: 10px; height: 10px;" alt="SQL Logo">
-<img src="https://img.shields.io/badge/SQLite-003B57.svg" style="width: 80px;" alt="SQLite Badge">
-<img src="https://img.icons8.com/ios/50/000000/mysql-logo.png" style="width: 20px; height: 20px;" alt="MySQL Logo">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg" style="width: 80px;" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg" style="width: 50px;" alt="HTML5 Badge">
@@ -39,3 +37,31 @@ ________________________________________________________________________________
 </div>
 </p><br>
 
+📈 Mis primeros pasos..
+
+<ul>
+  <li>📚 Estudié y practique mi lógica de programación.</li>
+  <li>📘 Aprendí Python mediante un curso con ejemplos prácticos y un proyecto guiado.</li>
+  <li>💾 Estudié SQL y bases de datos relacionales con MySQL, creando una base de datos para una app como proyecto final.</li>
+  <li>🖥️ Aprendí a utilizar Git desde la terminal y a integrarlo con GitHub para el control de versiones y la colaboración en proyectos.</li>
+  <li>🌐 Realicé un curso de Django.</li>
+</ul>
+<p>
+  <a href="https://www.youtube.com/watch?v=3GymExBkKjE&t=2713s&ab_channel=MoureDevbyBraisMoure" target="_blank">🎥 Git y GitHub (MoureDev)</a><br>
+  <a href="https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas" target="_blank">🎥 Python (Píldoras Informáticas)</a><br>
+  <a href="https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB&ab_channel=pildorasinformaticas" target="_blank">🎥 Django (Píldoras Informáticas)</a><br>
+  _______________________________________
+  
+  <a href="https://drive.google.com/file/d/1ERtJovUFUWndhgIYmt9sJxBAUwgMgUz9/view" target="_blank">📄 Certificado de Técnicas de Programación</a><br>
+  <a href="https://drive.google.com/drive/folders/1hDNAjmwDiU04Yepw-SNzOx4MP6znLges" target="_blank">📄 Certificado de Bases de datos</a><br>
+</p>
+🎯 Objetivos..
+<ul>
+  <li>👨‍💻 Actualmente trabajo en un proyecto con el objetivo de consolidar mis conocimientos de backend.</li>
+  <li>🔧 Continuar desarrollando proyectos y construir una base solida. </li>
+  <li>🎓 Mejorar mi inglés, especialmente en conversación. </li>
+  <li>🔍 Aprender sobre refactorización, patrones de diseño y testing para mejorar mi código y mi razonamiento.</li>
+  <li>🚀 Encontrar una oportunidad laboral que me permita poner en práctica mis conocimientos, y seguir en constante aprendizaje y crecimiento.</li>
+  
+  
+</ul>
