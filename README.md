@@ -53,7 +53,7 @@ ________________________________________________________________________________
   _______________________________________
   
   <a href="https://drive.google.com/file/d/1ERtJovUFUWndhgIYmt9sJxBAUwgMgUz9/view" target="_blank">📄 Certificado de Técnicas de Programación</a><br>
-  <a href="https://drive.google.com/file/d/1hDNAjmwDiU04Yepw-SNzOx4MP6znLges/view?usp=drivesdk" target="_blank">📄 Certificado de Bases de datos</a><br>
+  <a href="https://drive.google.com/file/d/1qdcRXCfhnQs_xhH1Dxvjju26y5wL3DdM/view?usp=drive_link" target="_blank">📄 Certificado de Bases de datos</a>
 </p>
 🎯 Objetivos..
 <ul>
