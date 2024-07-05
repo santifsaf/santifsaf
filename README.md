@@ -1,12 +1,12 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="width: 100%; text-align: left;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=false&vCenter=true&width=900&height=110&lines=SANTIAGO+FUENTES.+Desarrollador+trainee.&speed=40&pause=3000" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=0072BB&center=false&vCenter=true&width=900&height=110&lines=SANTIAGO+FUENTES.+Desarrollador+trainee.&speed=40&pause=3000" alt="Typing SVG">
     </a>
   </div>
   <div style="width: 100%; text-align: center;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Hola!+Bienvenidx+a+mi+perfil!+👋&speed=50&pause=3000" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=0072BB&center=true&vCenter=true&width=900&height=110&lines=Hola!+Bienvenidx+a+mi+perfil!+👋&speed=50&pause=3000" alt="Typing SVG">
     </a>
   </div>
 </div>
