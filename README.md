@@ -41,26 +41,22 @@ ________________________________________________________________________________
 
 <ul>
   <li>📚 Estudié y practique mi lógica de programación.</li>
-  <li>📘 Aprendí Python mediante un curso con ejemplos prácticos y un proyecto guiado.</li>
-  <li>💾 Estudié SQL y bases de datos relacionales con MySQL, creando una base de datos para una app como proyecto final.</li>
+  <li>📘 Aprendí Python con ejemplos prácticos y proyectos guiados.</li>
+  <li>🎓 Estudié SQL y bases de datos relacionales con MySQL, creando una base de datos para una app como proyecto final.</li>
   <li>🖥️ Aprendí a utilizar Git desde la terminal y a integrarlo con GitHub para el control de versiones y la colaboración en proyectos.</li>
-  <li>🌐 Realicé un curso de Django.</li>
 </ul>
-<p>
-  <a href="https://www.youtube.com/watch?v=3GymExBkKjE&t=2713s&ab_channel=MoureDevbyBraisMoure" target="_blank">🎥 Git y GitHub (MoureDev)</a><br>
-  <a href="https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&ab_channel=pildorasinformaticas" target="_blank">🎥 Python (Píldoras Informáticas)</a><br>
-  <a href="https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB&ab_channel=pildorasinformaticas" target="_blank">🎥 Django (Píldoras Informáticas)</a><br>
-  _______________________________________
-  
+
   <a href="https://drive.google.com/file/d/1ERtJovUFUWndhgIYmt9sJxBAUwgMgUz9/view" target="_blank">📄 Certificado de Técnicas de Programación</a><br>
   <a href="https://drive.google.com/file/d/1qdcRXCfhnQs_xhH1Dxvjju26y5wL3DdM/view?usp=drive_link" target="_blank">📄 Certificado de Bases de datos</a>
+<p>
+  _______________________________________
 </p>
 🎯 Objetivos..
 <ul>
-  <li>👨‍💻 Actualmente trabajo en un proyecto con el objetivo de consolidar mis conocimientos de backend.</li>
-  <li>🔧 Continuar desarrollando proyectos y construir una base solida. </li>
+  
+  <li>🔧 Crear proyectos desde 0 para consolidar mis conocimientos y perfeccionar mi codigo, enfocandome en el desarrollo backend. </li>
   <li>🎓 Mejorar mi inglés, especialmente en conversación. </li>
-  <li>🔍 Aprender sobre refactorización, patrones de diseño y testing para mejorar mi código y mi razonamiento.</li>
+  <li>🔍 Adentrarme en el machine learning/deep learning/IA.</li>
   <li>🚀 Encontrar una oportunidad laboral que me permita poner en práctica mis conocimientos, y seguir en constante aprendizaje y crecimiento.</li>
   
   
