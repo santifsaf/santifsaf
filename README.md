@@ -45,9 +45,6 @@ ________________________________________________________________________________
   <li>🎓 Estudié SQL y bases de datos relacionales con MySQL, creando una base de datos para una app como proyecto final.</li>
   <li>🖥️ Aprendí a utilizar Git desde la terminal y a integrarlo con GitHub para el control de versiones y la colaboración en proyectos.</li>
 </ul>
-
-  <a href="https://drive.google.com/file/d/1ERtJovUFUWndhgIYmt9sJxBAUwgMgUz9/view" target="_blank">📄 Certificado de Técnicas de Programación</a><br>
-  <a href="https://drive.google.com/file/d/1qdcRXCfhnQs_xhH1Dxvjju26y5wL3DdM/view?usp=drive_link" target="_blank">📄 Certificado de Bases de datos</a>
 <p>
   _______________________________________
 </p>
