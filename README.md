@@ -30,7 +30,6 @@ ________________________________________________________________________________
 <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg" style="width: 80px;" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg" style="width: 50px;" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg" style="width: 40px;" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg" style="width: 80px;" alt="Bootstrap Badge">
