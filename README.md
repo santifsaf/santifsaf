@@ -49,11 +49,8 @@ ________________________________________________________________________________
 </p>
 🎯 Objetivos..
 <ul>
-  
-  <li>🔧 Crear proyectos desde 0 para consolidar mis conocimientos y perfeccionar mi codigo, enfocandome en el desarrollo backend. </li>
-  <li>🎓 Mejorar mi inglés, especialmente en conversación. </li>
-  <li>🔍 Aprender sobre machine learning/deep learning/IA.</li>
+  <li>🎓 Completar la tecnicatura universitaria en programacion de la Universidad Tecnologica Nacional. </li>
+  <li>🗣️ Mejorar mi inglés, especialmente en conversación. </li>
+  <li>🔍 Profundizar en tecnicas de machine learning/deep learning/IA.</li>
   <li>🚀 Encontrar una oportunidad laboral que me permita poner en práctica mis conocimientos, y seguir en constante aprendizaje y crecimiento.</li>
-  
-  
 </ul>
