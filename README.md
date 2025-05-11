@@ -27,6 +27,7 @@ ________________________________________________________________________________
 <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 40x; height: 40px;" alt="Python Logo">
 <img src="https://img.shields.io/badge/Python-3776AB.svg" style="width: 80px;" alt="Python Badge">
 <img src="https://img.shields.io/badge/Django-092E20.svg" style="width: 80px;" alt="Django Badge">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 40px; height: 40px;" alt="JavaScript Logo">
 <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <br>
@@ -39,18 +40,26 @@ ________________________________________________________________________________
 📈 Mis primeros pasos..
 
 <ul>
-  <li>📚 Estudié y practique mi lógica de programación.</li>
-  <li>📘 Aprendí Python con ejemplos prácticos y proyectos guiados.</li>
+  <li>📚 Mejoré mi lógica de programación.</li>
+  <li>📘 Aprendí Python desarrollando proyectos guiados aplicados a casos reales</li>
   <li>🎓 Estudié SQL y bases de datos relacionales con MySQL, creando una base de datos para una app como proyecto final.</li>
   <li>🖥️ Aprendí a utilizar Git desde la terminal y a integrarlo con GitHub para el control de versiones y la colaboración en proyectos.</li>
 </ul>
 <p>
   _______________________________________
 </p>
+⏳ Que me mantiene ocupado actualmente? 
+<ul><br>
+  <li>🧱 Estoy desarrollando aplicaciones web con Django. </li>
+  <li>📚 Mejorando mi Frontend con JavaScript para hacer mis proyectos más dinámicos e interactivos.</li>
+  <li>🎓Estoy cursando la Tecnicatura Universitaria en Programación en la UTN. </li>
+</ul>
+<p>
+  _______________________________________
+</p>
 🎯 Objetivos..
-<ul>
-  <li>🎓 Completar la tecnicatura universitaria en programacion de la Universidad Tecnologica Nacional. </li>
-  <li>🗣️ Mejorar mi inglés, especialmente en conversación. </li>
-  <li>🔍 Profundizar en tecnicas de machine learning/deep learning/IA.</li>
+<ul><br>
+  <li>🗣️ Mejorar mi inglés, especialmente a nivel conversacional. </li>
+  <li>🤖 Profundizar en tecnicas de machine learning, deep learning e inteligencia artificial</li>
   <li>🚀 Encontrar una oportunidad laboral que me permita poner en práctica mis conocimientos, y seguir en constante aprendizaje y crecimiento.</li>
 </ul>
