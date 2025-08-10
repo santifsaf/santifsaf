@@ -11,6 +11,7 @@
   </div>
 </div>
 
+
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoafuentes/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:santiagoafuentes@gmail.com) 
@@ -29,11 +30,15 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Django-092E20.svg" style="width: 80px;" alt="Django Badge">
 <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 40px; height: 40px;" alt="JavaScript Logo">
 <br>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg" style="width: 50px;" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg" style="width: 40px;" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg" style="width: 80px;" alt="Bootstrap Badge">
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 </p><br>
 
