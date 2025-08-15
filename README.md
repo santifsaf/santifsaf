@@ -42,22 +42,24 @@ ________________________________________________________________________________
 </div>
 </p><br>
 
-📈 Mis primeros pasos..
+📈 Primeros pasos en desarrollo de software 
 
 <ul>
-  <li>📚 Mejoré mi lógica de programación.</li>
-  <li>📘 Aprendí Python desarrollando proyectos guiados aplicados a casos reales</li>
-  <li>🎓 Estudié SQL y bases de datos relacionales con MySQL, creando una base de datos para una app como proyecto final.</li>
-  <li>🖥️ Aprendí a utilizar Git desde la terminal y a integrarlo con GitHub para el control de versiones y la colaboración en proyectos.</li>
+  <li>📚 Obtuve una sólida base en lógica de programación.</li>
+  <li>📘 Aprendí las bases en Python, mediante proyectos guiados orientados a casos reales.</li>
+  <li>🎓 Me capacité para lograr el diseño, creación y manipulación de bases de datos relacionales.</li>
+
+  <li>🖥️ Manejo de Git desde terminal e integración con GitHub para control de versiones y trabajo colaborativo.</li>
 </ul>
 <p>
   _______________________________________
 </p>
-⏳ Que me mantiene ocupado actualmente? 
+⏳ Actualmente
 <ul><br>
-  <li>🧱 Estoy desarrollando aplicaciones web con Django. </li>
-  <li>📚 Mejorando mi Frontend con JavaScript para hacer mis proyectos más dinámicos e interactivos.</li>
-  <li>🎓Estoy cursando la Tecnicatura Universitaria en Programación en la UTN. </li>
+  <li>🛠️ Gané experiencia desarrollando una aplicación web completa con Django, afianzando mi perfil como desarrollador backend. </li>
+  <li>📚 Enfocado en profundizar en fundamentos clave para el desarrollo backend.</li>
+  <li>🎓Cursando la Tecnicatura Universitaria en Programación (UTN).
+ </li>
 </ul>
 <p>
   _______________________________________
