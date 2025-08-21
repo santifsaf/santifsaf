@@ -28,7 +28,6 @@ ________________________________________________________________________________
 <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 40x; height: 40px;" alt="Python Logo">
 <img src="https://img.shields.io/badge/Python-3776AB.svg" style="width: 80px;" alt="Python Badge">
 <img src="https://img.shields.io/badge/Django-092E20.svg" style="width: 80px;" alt="Django Badge">
-<img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 40px; height: 40px;" alt="JavaScript Logo">
 <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
@@ -37,29 +36,32 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg" style="width: 50px;" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg" style="width: 40px;" alt="CSS3 Badge">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg" style="width: 80px;" alt="Bootstrap Badge">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 40px; height: 40px;" alt="JavaScript Logo">
+<br>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
 </div>
 </p><br>
 
 📈 Primeros pasos en desarrollo de software 
 
 <ul>
-  <li>📚 Obtuve una sólida base en lógica de programación.</li>
+  <li>📚 Obtuve una base sólida en lógica de programación y flujo de datos. (Carga horaria: 120hs)</li>
   <li>📘 Aprendí las bases en Python, mediante proyectos guiados orientados a casos reales.</li>
-  <li>🎓 Me capacité para lograr el diseño, creación y manipulación de bases de datos relacionales.</li>
-
-  <li>🖥️ Manejo de Git desde terminal e integración con GitHub para control de versiones y trabajo colaborativo.</li>
+  <li>🎓 Me capacité para lograr el diseño, creación y manipulación de bases de datos relacionales. (Carga horaria: 70hs)</li>
+  <li>🖥️ Adquirí experiencia en el uso de Git desde la terminal y en la integración con GitHub para control de versiones y trabajo colaborativo.</li>
 </ul>
 <p>
   _______________________________________
 </p>
 ⏳ Actualmente
 <ul><br>
-  <li>🛠️ Gané experiencia desarrollando una aplicación web completa con Django, afianzando mi perfil como desarrollador backend. </li>
-  <li>📚 Enfocado en profundizar en fundamentos clave para el desarrollo backend.</li>
-  <li>🎓Cursando la Tecnicatura Universitaria en Programación (UTN).
- </li>
+  <li>🎓 Cursando la Tecnicatura Universitaria en Programación (UTN). (Carga horaria: 1375 hs)</li>
+  <li>🛠️ Gané experiencia desarrollando una aplicación web completa con Django, afianzando mi perfil como desarrollador de software. </li>
+  <li>📚 Enfocado en profundizar en fundamentos clave para el desarrollo backend, buenas practicas y escalabilidad. </li>
 </ul>
 <p>
   _______________________________________
@@ -67,6 +69,6 @@ ________________________________________________________________________________
 🎯 Objetivos..
 <ul><br>
   <li>🗣️ Mejorar mi inglés, especialmente a nivel conversacional. </li>
-  <li>🤖 Profundizar en tecnicas de machine learning, deep learning e inteligencia artificial</li>
+  <li>🤖 Profundizar en tecnicas de Machine Learning, Deep Learning e inteligencia artificial.</li>
   <li>🚀 Encontrar una oportunidad laboral que me permita poner en práctica mis conocimientos, y seguir en constante aprendizaje y crecimiento.</li>
 </ul>
