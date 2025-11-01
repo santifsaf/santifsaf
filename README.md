@@ -66,9 +66,7 @@ ________________________________________________________________________________
 <p>
   _______________________________________
 </p>
-🎯 Objetivos..
+🎯 Objetivo
 <ul><br>
-  <li>🗣️ Mejorar mi inglés, especialmente a nivel conversacional. </li>
-  <li>🤖 Profundizar en tecnicas de Machine Learning, Deep Learning e inteligencia artificial.</li>
   <li>🚀 Encontrar una oportunidad laboral que me permita poner en práctica mis conocimientos, y seguir en constante aprendizaje y crecimiento.</li>
 </ul>
