@@ -11,13 +11,31 @@
   </div>
 </div>
 
-
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagoafuentes/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:santiagoafuentes@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:santiagoafuentes@gmail.com)
+
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠️ 
+## 👨‍💻 Sobre mí
+
+Estudiante avanzado de **Tecnicatura Universitaria en Programación (UTN)**, orientado al **desarrollo backend** y al **diseño de sistemas escalables**.
+
+Actualmente trabajo en el área administrativa de una empresa del sector gastronómico, donde participo en la **optimización de procesos administrativos y análisis de información**.
+
+Cuento con experiencia en:
+
+- Análisis y conciliación de cuentas  
+- Facturación y control interno  
+- Gestión de múltiples unidades de negocio  
+- Manejo de grandes volúmenes de información  
+
+Esta experiencia me permite abordar el desarrollo con una **visión técnica combinada con comprensión real del negocio**.
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 🛠️ Tecnologías
 
 <p>
 <div align="center">
@@ -44,29 +62,39 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 
 </div>
-</p><br>
+</p>
 
-📈 Primeros pasos en desarrollo de software 
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 📈 Primeros pasos en desarrollo de software
 
 <ul>
-  <li>📚 Obtuve una base sólida en lógica de programación y flujo de datos. (Carga horaria: 120hs)</li>
-  <li>📘 Aprendí las bases en Python, mediante proyectos guiados orientados a casos reales.</li>
-  <li>🎓 Me capacité para lograr el diseño, creación y manipulación de bases de datos relacionales. (Carga horaria: 70hs)</li>
-  <li>🖥️ Adquirí experiencia en el uso de Git desde la terminal y en la integración con GitHub para control de versiones y trabajo colaborativo.</li>
+  <li>📚 Base sólida en <b>lógica de programación y estructuras de datos</b>. (120 hs)</li>
+  <li>🐍 Fundamentos de <b>Python</b> aplicados a proyectos orientados a casos reales.</li>
+  <li>🗄️ Diseño, creación y manipulación de <b>bases de datos relacionales</b>. (70 hs)</li>
+  <li>🌿 Uso de <b>Git desde terminal</b> e integración con <b>GitHub</b> para control de versiones y trabajo colaborativo.</li>
 </ul>
+
 <p>
   _______________________________________
 </p>
-⏳ Actualmente
-<ul><br>
-  <li>🎓 Cursando la Tecnicatura Universitaria en Programación (UTN). (Carga horaria: 1375 hs)</li>
-  <li>🛠️ Gané experiencia desarrollando una aplicación web completa con Django, afianzando mi perfil como desarrollador de software. </li>
-  <li>📚 Enfocado en profundizar en fundamentos clave para el desarrollo backend, buenas practicas y escalabilidad. </li>
+
+## ⏳ Actualmente
+
+<ul>
+  <li>🎓 Cursando la <b>Tecnicatura Universitaria en Programación (UTN)</b>. (1375 hs)</li>
+  <li>🛠️ Desarrollo de una <b>aplicación web completa con Django</b>, consolidando mi perfil como desarrollador backend.</li>
+  <li>📚 Profundizando en <b>arquitectura backend, buenas prácticas y escalabilidad de sistemas</b>.</li>
 </ul>
+
 <p>
   _______________________________________
 </p>
-🎯 Objetivo
-<ul><br>
-  <li>🚀 Encontrar una oportunidad laboral que me permita poner en práctica mis conocimientos, y seguir en constante aprendizaje y crecimiento.</li>
+
+## 🎯 Objetivo
+
+<ul>
+  <li>📩 Abierto a oportunidades en <b>Desarrollo Backend Jr</b> y <b>IT Support Jr</b>.</li>
+  <li>Interesado en participar en proyectos donde pueda seguir desarrollando habilidades técnicas y aportar soluciones escalables.</li>
 </ul>
+
