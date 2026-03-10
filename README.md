@@ -70,8 +70,9 @@ ________________________________________________________________________________
 
 <ul>
   <li>📚 Base sólida en <b>lógica de programación y estructuras de datos</b>. (120 hs)</li>
-  <li>🐍 Fundamentos de <b>Python</b> aplicados a proyectos orientados a casos reales.</li>
+  <li>🐍 Fundamentos aplicados a proyectos orientados a casos reales.</li>
   <li>🗄️ Diseño, creación y manipulación de <b>bases de datos relacionales</b>. (70 hs)</li>
+  <li>🛠️ Desarrolle de una <b>aplicación web completa con Django</b>, consolidando mi perfil como desarrollador backend.</li>
   <li>🌿 Uso de <b>Git desde terminal</b> e integración con <b>GitHub</b> para control de versiones y trabajo colaborativo.</li>
 </ul>
 
@@ -83,7 +84,6 @@ ________________________________________________________________________________
 
 <ul>
   <li>🎓 Cursando la <b>Tecnicatura Universitaria en Programación (UTN)</b>. (1375 hs)</li>
-  <li>🛠️ Desarrollo de una <b>aplicación web completa con Django</b>, consolidando mi perfil como desarrollador backend.</li>
   <li>📚 Profundizando en <b>arquitectura backend, buenas prácticas y escalabilidad de sistemas</b>.</li>
 </ul>
 
