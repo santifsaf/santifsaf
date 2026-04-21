@@ -20,18 +20,13 @@ ________________________________________________________________________________
 
 ## 👨‍💻 Sobre mí
 
-Estudiante avanzado de **Tecnicatura Universitaria en Programación (UTN)**, orientado al **desarrollo backend** y al **diseño de sistemas escalables**.
+Estudiante avanzado de **Tecnicatura Universitaria en Programación (UTN)**, orientado al desarrollo backend y el diseño de sistemas escalables.  
 
-Actualmente trabajo en el área administrativa de una empresa del sector gastronómico, donde participo en la **optimización de procesos administrativos y análisis de información**.
+Actualmente trabajo en el área administrativa de una empresa del sector gastronómico, enfocándome en la optimización de procesos administrativos. Cuento con experiencia en análisis de cuentas, conciliaciones, facturación, control interno de múltiples unidades de negocio y gestión de grandes volúmenes de información. 
 
-Cuento con experiencia en:
+Mi experiencia me permite abordar el desarrollo con enfoque técnico y comprensión real del negocio. 
 
-- Análisis y conciliación de cuentas  
-- Facturación y control interno  
-- Gestión de múltiples unidades de negocio  
-- Manejo de grandes volúmenes de información  
-
-Esta experiencia me permite abordar el desarrollo con una **visión técnica combinada con comprensión real del negocio**.
+📩 Abierto a oportunidades en **desarrollo backend y soporte IT.**
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -46,6 +41,8 @@ ________________________________________________________________________________
 <img src="https://img.icons8.com/color/48/000000/python.png" style="width: 40x; height: 40px;" alt="Python Logo">
 <img src="https://img.shields.io/badge/Python-3776AB.svg" style="width: 80px;" alt="Python Badge">
 <img src="https://img.shields.io/badge/Django-092E20.svg" style="width: 80px;" alt="Django Badge">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+
 <br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
@@ -65,36 +62,3 @@ ________________________________________________________________________________
 </p>
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-## 📈 Primeros pasos en desarrollo de software
-
-<ul>
-  <li>📚 Base sólida en <b>lógica de programación y estructuras de datos</b>. (120 hs)</li>
-  <li>🐍 Fundamentos aplicados a proyectos orientados a casos reales.</li>
-  <li>🗄️ Diseño, creación y manipulación de <b>bases de datos relacionales</b>. (70 hs)</li>
-  <li>🛠️ Desarrolle de una <b>aplicación web completa con Django</b>, consolidando mi perfil como desarrollador backend.</li>
-  <li>🌿 Uso de <b>Git desde terminal</b> e integración con <b>GitHub</b> para control de versiones y trabajo colaborativo.</li>
-</ul>
-
-<p>
-  _______________________________________
-</p>
-
-## ⏳ Actualmente
-
-<ul>
-  <li>🎓 Cursando la <b>Tecnicatura Universitaria en Programación (UTN)</b>. (1375 hs)</li>
-  <li>📚 Profundizando en <b>arquitectura backend, buenas prácticas y escalabilidad de sistemas</b>.</li>
-</ul>
-
-<p>
-  _______________________________________
-</p>
-
-## 🎯 Objetivo
-
-<ul>
-  <li>📩 Abierto a oportunidades en <b>Desarrollo Backend Jr</b> y <b>IT Support Jr</b>.</li>
-  <li>Interesado en participar en proyectos donde pueda seguir desarrollando habilidades técnicas y aportar soluciones escalables.</li>
-</ul>
-
