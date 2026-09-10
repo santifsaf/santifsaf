@@ -20,13 +20,15 @@ ________________________________________________________________________________
 
 ## 👨‍💻 Sobre mí
 
-Estudiante de la Tecnicatura Universitaria en Programación (UTN), orientado al desarrollo backend con interés en el diseño de sistemas y desarrollo de soluciones escalables.
+Estudiante de la Tecnicatura Universitaria en Programación (UTN), orientado al desarrollo backend con interés en el diseño de sistemas escalables.
  
-Actualmente trabajo en el área administrativa de una empresa del sector gastronómico, me ocupo de análisis de cuentas, conciliaciones, control interno y gestión de múltiples unidades de negocio. Esta experiencia me permitió desarrollar una mirada orientada a procesos, análisis y resolución de problemas.
- 
-Mi experiencia me permite abordar el desarrollo con una combinación de visión técnica y comprensión de procesos reales de negocio. Además, me encuentro desarrollando proyectos personales enfocados en backend con Django y FastAPI, y automatización con Python. 
- 
-📩 Abierto a oportunidades en desarrollo backend y soporte IT Jr.
+Actualmente trabajo en el área administrativa de una empresa del sector gastronómico, me ocupo de análisis de cuentas, conciliaciones, control interno y gestión de múltiples unidades de negocio. Esta experiencia me permite abordar el desarrollo con comprensión sobre procesos reales de negocio, análisis y resolución de problemas. 
+
+Además, me encuentro desarrollando proyectos personales enfocados en backend con Django y FastAPI, y automatización con Python. 
+
+Busco mi primera oportunidad en el sector IT, que me permita integrarme a un equipo de trabajo y continuar desarrollándome profesionalmente.
+
+📩 Abierto a oportunidades en desarrollo backend y soporte IT.
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
